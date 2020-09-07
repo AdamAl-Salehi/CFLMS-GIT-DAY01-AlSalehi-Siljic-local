@@ -1,2 +1,3 @@
 First line
-Conflicting line
+second line
+
